@@ -455,9 +455,3 @@ nav ul{
 		justify-content: space-around;
 		align-items: center;
 	}
-@media (max-width: 6in)
-	{
-		#page-top{
-			color: white;
-		}
-}
