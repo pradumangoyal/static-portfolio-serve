@@ -1,0 +1,44 @@
+header{
+	background-color: #852985;
+	width: 100%;
+	height: 150px;
+}
+.logo{
+	width: 447px;
+}
+body{
+	background-color: #e0da65;
+}
+.light{
+	display: inline;
+	font-family: 'Raleway', sans-serif;
+	color: #3F4448;
+	font-size: 20px;
+}
+.text{
+	display: inline;
+	color: black;
+	font-size: 24px;
+}
+.author{
+	width: 100%;
+	border-bottom: solid 2px #3F4448;
+	font-family: 'Raleway', sans-serif;
+	color: #3F4448;
+	font-style: italic;
+	font-size: 20px;
+}
+.all{
+	margin: 50px;
+}
+	.linkb{
+	text-align: center;
+	font-size: 28px;
+	color: #424549;
+	letter-spacing: 0.30em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+}
+.linkb a{
+	color: #852985;
+}
