@@ -457,7 +457,6 @@ nav ul{
 	}
 @media (max-width: 6in)
 	{
-		#page-top{
+		.profile .about{
 			color: white;
-		}
-}
+		}}
